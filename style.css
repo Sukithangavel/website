@@ -1,0 +1,87 @@
+h1{
+    font-size:200%;
+    text-align:center;
+    color: rgb(12, 43, 12);
+    font-family: cursive;
+
+}
+marquee{
+    font-size:130%;
+    text-align:center;
+    color: rgb(12, 43, 12);
+    font-family: cursive;
+}
+body{
+    background-image: url(bg\ img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex-top;
+    width: 700px;height:300px ;
+    border: 5px solid rgb(12, 43, 12);
+    padding: 200px;
+    margin-left: 200px;
+}
+.rec2{
+    display: flex-top;
+    position: absolute;
+    top: 30px;
+    right: 500px;
+    left: 350px;
+    width: 800px;
+    border:5px solid rgb(12, 43, 12);
+    padding: 0px;
+    
+}
+.rec3{
+    display: flex-top;
+    position: absolute;
+    top: 130px;
+    right: 500px;
+    left: 450px;
+    width: 500px;
+    border:5px solid rgb(12, 43, 12);
+    padding: 30px;
+    
+}
+.comp2{
+       margin-left: 200px;
+       display: flex;
+       align-items: center;
+       position: absolute;
+       margin-top: 600px;   
+}
+.rec4{
+    display: flex-top;
+    position: absolute;
+    top: 520px;
+    right: 500px;
+    left: 400px;
+    width: 700px;
+    border:5px solid rgb(12, 43, 12);
+    padding: 0px;
+    
+}
+.rec5{
+    display: flex-top;
+    position: absolute;
+    top: 630px;
+    right: 600px;
+    left: 400px;
+    width: 700px;
+    border:5px solid rgb(12, 43, 12);
+    padding: 0px;
+    
+}
+h2{
+    font-size:130%;
+    text-align:center;
+    color: rgb(1, 5, 1);
+    font-family: cursive;
+}
+h3{
+    font-size:130%;
+    text-align:center;
+    color: rgb(1, 5, 1);
+    font-family: cursive;
+}
